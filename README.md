@@ -1,6 +1,4 @@
-# 15112_Term_Project
-
-Description
+# Description
 
 Esports players around the world, in addition to playing the game itself, often devote 
 significant amounts of time to training their aim. In FPS (First-Person Shooter) games, having 
@@ -17,7 +15,7 @@ precision of the mouse hit and introducing 3D features in the UI to make the tra
 This approach will allow the aim trainer to more accurately simulate an actual game while preserving its 
 essential training qualities.
 
-How to run the project?
+# How to run the project?
 
 Download cmu_graphics, and PIL libraries. Run the main.py file in the 112_Term_Project folder. 
 No keyboard shortcuts in the game, but it is recommended to use a mouse rather than a trackpad.
